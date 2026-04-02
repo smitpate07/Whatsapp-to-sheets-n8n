@@ -111,39 +111,7 @@ The Code node maps every line to structured columns:
 
 ---
 
-## 🚀 Setup Guide
 
-### Prerequisites
-
-- [n8n](https://n8n.io) — self-hosted or cloud (free tier works)
-- A Google account with Google Sheets access
-- A WhatsApp chat export (`.txt` file)
-
-### Step 1 — Export Your WhatsApp Chat
-
-1. Open any WhatsApp chat
-2. Tap ⋮ (menu) → **More** → **Export Chat**
-3. Choose **Without Media**
-4. Save the `.txt` file
-
-### Step 2 — Import the n8n Workflow
-
-1. Open your n8n instance
-2. Go to **Workflows** → **Import**
-3. Upload `workflow.json` from this repo
-
-### Step 3 — Configure Google Sheets
-
-1. Open the **Google Sheets** node in n8n
-2. Connect your Google account via OAuth
-3. Set your target **Spreadsheet ID** and **Sheet Name**
-
-### Step 4 — Run It
-
-- **Manual**: Upload your `.txt` file via the workflow trigger
-- **Automated**: Point the File Trigger to a Google Drive folder — drop files in and it runs automatically
-
----
 
 ## 🔧 Customization Ideas
 
