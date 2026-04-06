@@ -127,3 +127,12 @@ The Code node maps every line to structured columns:
 ---
 ## 🎬 Demo Video
 
+<div>
+    <a href="https://www.loom.com/share/b99f0430ba5a480489c60af41434b765">
+    </a>
+    <a href="https://www.loom.com/share/b99f0430ba5a480489c60af41434b765">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b99f0430ba5a480489c60af41434b765-4813f095d8d6c4a8-full-play.gif#t=0.1">
+    </a>
+  </div>
+
+  *Note: Video generated using Notebook LM. Potential errors may exist.*
