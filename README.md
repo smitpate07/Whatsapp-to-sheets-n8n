@@ -1,4 +1,7 @@
-![HighLevel](/images/highlevel.png)
+# WhatsApp to Sheets
+
+![High](/images/high.png)
+
 
 > **⚠️ Hypothetical Scenario Notice**
 > The business case and numbers presented in this README (the Lagos logistics company, hours saved, cost figures) are **illustrative examples** designed to show the *type* of problem this workflow solves and the *scale* of impact it could have. They are not based on a real company or actual measured data. Your real-world results will vary depending on message volume, business type, and setup. The workflow itself is real and fully functional.
@@ -6,8 +9,6 @@
 ---
 
 ## 🧪 Hypothetical Use Case
-
-> _This is an illustrative scenario. The company, numbers, and outcomes below are fictional examples that represent the kind of problem this workflow is designed to solve. Real results will depend on your message volume, business context, and workflow configuration._
 
 ### The Scenario
 
@@ -58,13 +59,13 @@ This is not a one-trick workflow. Any person or team that **receives structured 
 | 🏗️ | **Freelancers & Agencies** | Client briefs, revision requests, and approvals arrive over WhatsApp. Tracking what was agreed, when, and by whom is chaotic. | Archive conversation logs into a structured Notion or Sheets timeline — useful for billing disputes and project audits. | `approved`, `revise`, `deadline`, `brief` |
 | 🚗 | **Fleet & Delivery Dispatchers** | Small operators (outside Uber/Bolt) coordinate drivers via WhatsApp. Trip requests and delivery statuses happen entirely in chat. | Log trip confirmations with timestamps, flag completed deliveries, maintain a daily dispatch log automatically. | `pickup`, `delivered`, `en route`, `done` |
 | 📊 | **Researchers & Journalists** | Qualitative researchers collect interview responses over WhatsApp. Organising quotes, timestamps, and sources manually takes hours. | Export interview chats → parse into a structured dataset of speaker, timestamp, quote — ready for analysis or fact-checking. | `quote`, `source`, `confirmed`, `off record` |
-| 🏦 | **Microfinance & Savings Groups** | Community savings groups (e.g. *chamas*, *susus*) confirm contributions and loans over WhatsApp. Record-keeping is done by hand. | Every contribution message gets logged with sender and amount — a running ledger without a dedicated bookkeeper. | `contributed`, `paid`, `loan`, `balance` |
-| 🏋️ | **Coaches & Trainers** | Clients send check-ins, progress updates, and session confirmations over WhatsApp daily. | Parse check-in messages into a client progress tracker — who checked in, when, and what they reported. | `done`, `completed`, `missed`, `weight` |
-
 ---
 
 ## ⚙️ How It Works
 
+![HighLevel](/images/highlevel.png)
+
+## Workflow Breakdown
 ```
 WhatsApp .txt Export
         │
@@ -110,8 +111,6 @@ The Code node maps every line to structured columns:
 | `flagged` | TRUE |
 
 ---
-
-
 
 ## 🔧 Customization Ideas
 
