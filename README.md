@@ -22,7 +22,7 @@ At the end of each day, a staff member manually reads through hundreds of messag
 | Fixing copy-paste errors & missed orders | ~45 min/day |
 | Staff cost (at ₦2,000/hr equivalent) | ~$4/day |
 
-**Hypothetically: ~$80/month and 65+ hours lost to pure data entry.**
+**Hypothetically: ~$80/month and 65+ hours lost to pure data entry**
 
 ### With N8N Workflow
 
