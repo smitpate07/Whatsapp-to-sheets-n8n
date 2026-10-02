@@ -27,7 +27,7 @@ At the end of each day, a staff member manually reads through hundreds of messag
 ### With N8N Workflow
 
 1. Staff exports the WhatsApp chat (takes 10 seconds on any phone).
-2. Drops the `.txt` file into a watched Google Drive folder
+2. Drops the `.txt` file into a watched Google Drive folder.
 3. n8n parses every message — extracting date, time, sender, message body
 4. Rows appended to Google Sheets instantly
 5. An IF node flags messages with keywords like `"order"`, `"deliver"`, `"address"` for quick review.
