@@ -124,7 +124,7 @@ The Code node maps every line to structured columns:
 | Push to Notion | Use the Notion node to create a database entry per message |
 | Push to Supabase / MySQL | Use the HTTP Request or Postgres node |
 
----
+-------
 ## 🎬 Demo Video
 
 <div>
