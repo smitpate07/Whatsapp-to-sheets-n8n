@@ -110,7 +110,7 @@ The Code node maps every line to structured columns:
 | `message` | I need 5 bags delivered to Lekki Phase 1 |
 | `flagged` | TRUE |
 
----
+-----
 
 ## 🔧 Customization Ideas
 
