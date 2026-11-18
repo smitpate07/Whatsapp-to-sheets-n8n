@@ -6,7 +6,7 @@
 > **⚠️ Hypothetical Scenario:**
 >The business case and numbers presented in this README (the Lagos logistics company, hours saved, cost figures) are **illustrative examples** designed to show the *type* of problem this workflow solves and the *scale* of impact it could have. They are not based on a real company or actual measured data. Your real-world results will vary depending on message volume, business type, and setup. The workflow itself is real and fully functional.
 
----
+-----
 
 ## 🧪 Hypothetical Use Case
 
