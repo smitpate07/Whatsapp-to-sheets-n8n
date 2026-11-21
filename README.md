@@ -59,7 +59,7 @@ This is not a one-trick workflow. Any person or team that **receives structured 
 | 🏗️ | **Freelancers & Agencies** | Client briefs, revision requests, and approvals arrive over WhatsApp. Tracking what was agreed, when, and by whom is chaotic. | Archive conversation logs into a structured Notion or Sheets timeline — useful for billing disputes and project audits. | `approved`, `revise`, `deadline`, `brief` |
 | 🚗 | **Fleet & Delivery Dispatchers** | Small operators (outside Uber/Bolt) coordinate drivers via WhatsApp. Trip requests and delivery statuses happen entirely in chat. | Log trip confirmations with timestamps, flag completed deliveries, maintain a daily dispatch log automatically. | `pickup`, `delivered`, `en route`, `done` |
 | 📊 | **Researchers & Journalists** | Qualitative researchers collect interview responses over WhatsApp. Organising quotes, timestamps, and sources manually takes hours. | Export interview chats → parse into a structured dataset of speaker, timestamp, quote — ready for analysis or fact-checking. | `quote`, `source`, `confirmed`, `off record` |
------
+------
 
 ## ⚙️ How It Works
 
